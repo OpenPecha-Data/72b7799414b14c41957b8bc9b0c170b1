@@ -2,6 +2,7 @@ segment_sources:
   38b5127721074542a1f9374368744dd9:
     type: translation
     lang: bo
+    relation: source
   23e0309c4edc4213afdf7b6819f0be7d:
     type: translation
     lang: en-us
